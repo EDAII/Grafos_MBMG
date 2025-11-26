@@ -1,4 +1,4 @@
-#  Projeto: Estruturas de Dados — Grafos e Busca (Graphs & Search)
+# Estruturas de Dados — Grafos e Busca (Graphs & Search)
 
 ## Alunos
 
@@ -11,7 +11,7 @@
 
 ## Descrição do Projeto
 
-Este projeto foi desenvolvido como parte do segundo trabalho da disciplina de **Estruturas de Dados e Algoritmos II (EDA2)**, com foco em **estruturas baseadas em grafos e técnicas de busca**.
+Exercícios para o trabalho da disciplina de **Estruturas de Dados e Algoritmos II (EDA2)**, com foco em **estruturas baseadas em grafos e técnicas de busca**.
 
 O objetivo é compreender o funcionamento, a implementação e a aplicação prática de **algoritmos fundamentais de grafos**, utilizando exercícios da plataforma **LeetCode** para validação.
 
