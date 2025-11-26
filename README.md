@@ -165,7 +165,7 @@ Explicamos todos os códigos implementados na plataforma LeetCode, descrevendo a
     </tr>
     <tr>
       <td align="center">
-        <a href="https://www.youtube.com/embed/W_YO7TrVseg" target="_blank">
+        <a href="https://www.youtube.com/embed/x4hNpJxNKck"target="_blank">
           Apresentação — Grafos - Estruturas de Dados — EDA II — UnB FCTE
         </a>
       </td>
